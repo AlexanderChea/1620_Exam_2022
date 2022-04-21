@@ -62,16 +62,12 @@ function loadContact(){
 function singleContact(event){
   document.getElementById('display_single_contacts')
   .addEventListener('click', event => {
-    if (single )
-    
   })
 }
 
-function closeButton{
+function closeButton(){
   const close = document.querySelector(singleContact)
   for (close of closeButton){
-    const button = document
+    console.log(close)
   }
-
-
 }
