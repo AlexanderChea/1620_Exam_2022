@@ -52,3 +52,19 @@ const contactsList = [
 ]
 
 // Your code goes here
+function loadContact(){
+  const newContactArea = document.querySelector(".display_all_contacts")
+  const card = document.addEventListener("click", )
+
+
+  
+  }
+
+
+function singleContact(event){
+  document.getElementById('display_single_contacts')
+  .addEventListener('click', event => {
+    const single = 
+    
+  })
+}
