@@ -68,6 +68,7 @@ header a:hover {
 main {
   display:flex;
   justify-content:space-evenly;
+  flex-direction: row;
 }
 
 #individual_contact {

@@ -62,12 +62,14 @@ function loadContact(){
 function singleContact(event){
   document.getElementById('display_single_contacts')
   .addEventListener('click', event => {
+
   })
 }
 
 function closeButton(){
   const close = document.querySelector(singleContact)
   for (close of closeButton){
-    console.log(close)
+    icon = document.querySelector('#fa-solid fa-address-card')
   }
 }
+
