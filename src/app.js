@@ -55,13 +55,14 @@ const contactsList = [
 function loadContact(){
   const newContactArea = document.querySelector(".display_all_contacts")
   const card = document.addEventListener("click", newContactArea)
-  }
+  console.log(card)
+}
 
 
 function singleContact(event){
   document.getElementById('display_single_contacts')
   .addEventListener('click', event => {
-    const single = 
+    if (single )
     
   })
 }
@@ -69,7 +70,7 @@ function singleContact(event){
 function closeButton{
   const close = document.querySelector(singleContact)
   for (close of closeButton){
-    if 
+    const button = document
   }
 
 
